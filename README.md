@@ -71,7 +71,7 @@
     <img src="https://upload.wikimedia.org/wikipedia/commons/d/d5/Tailwind_CSS_Logo.svg" alt="tailwind" width="40" height="40" />
   </a>
   <a href="https://nextjs.org/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nextjs/nextjs-line.svg" alt="nextjs" width="40" height="40" />
+    <img src= "https://imgs.search.brave.com/zQlJGPdc231GeHYIoOArGAR0L9wfuKQiDTuX4_YOdvc/rs:fit:860:0:0:0/g:ce/aHR0cHM6Ly9hc3Nl/dC5icmFuZGZldGNo/LmlvL2lkMmFsdWUt/cngvaWRHdThJSkJk/My5zdmc_dXBkYXRl/ZD0xNzE0NTU2MjIx/Mjky" alt="nextjs" width="40" height="40" />
   </a>
   <a href="https://supabase.com/" target="_blank" rel="noreferrer">
     <img src="https://seeklogo.com/images/S/supabase-logo-DCC676FFE2-seeklogo.com.png" alt="supabase" width="40" height="40" />
