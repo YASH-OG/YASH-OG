@@ -77,7 +77,7 @@
     <img src= "https://imgs.search.brave.com/zQlJGPdc231GeHYIoOArGAR0L9wfuKQiDTuX4_YOdvc/rs:fit:860:0:0:0/g:ce/aHR0cHM6Ly9hc3Nl/dC5icmFuZGZldGNo/LmlvL2lkMmFsdWUt/cngvaWRHdThJSkJk/My5zdmc_dXBkYXRl/ZD0xNzE0NTU2MjIx/Mjky" alt="nextjs" width="40" height="40" />
   </a>
   <a href="https://supabase.com/" target="_blank" rel="noreferrer">
-    <img src="https://seeklogo.com/images/S/supabase-logo-DCC676FFE2-seeklogo.com.png" alt="supabase" width="40" height="40" />
+    <img src="https://imgs.search.brave.com/imhUfL01L6juIX9fjCuNhL_dbuNiyi--exoNQovvj7I/rs:fit:860:0:0:0/g:ce/aHR0cHM6Ly9sb2dv/d2lrLmNvbS9jb250/ZW50L3VwbG9hZHMv/aW1hZ2VzL3N1cGFi/YXNlLWljb24xNzIx/MzQyMDc3LmxvZ293/aWsuY29tLndlYnA" alt="supabase" width="40" height="40" />
   </a>
   <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongo" width="40" height="40" />
