@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Yash </h1>
 <h3 align="center">A passionate ML/DL Dev.</h3>
 
-- 🔭 I’m currently working on **Multi-Agentic Systems**
+- 🔭 I’m currently working on **Solving Kubernetes with MCP servers**
 
 - 🌱 I’m currently learning **Multimodal Learning**
 
